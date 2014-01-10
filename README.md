@@ -1,5 +1,6 @@
 # KeywordArgTime
-![Build Status](https://travis-ci.org/joker1007/keyword_arg_time.png?branch=master)
+[![Build Status](https://travis-ci.org/joker1007/keyword_arg_time.png?branch=master)](https://travis-ci.org/joker1007/keyword_arg_time)
+[![Coverage Status](https://coveralls.io/repos/joker1007/keyword_arg_time/badge.png?branch=master)](https://coveralls.io/r/joker1007/keyword_arg_time?branch=master)
 
 Time or Date object constructer by keyword arguments
 

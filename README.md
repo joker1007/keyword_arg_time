@@ -1,4 +1,5 @@
 # KeywordArgTime
+![Build Status](https://travis-ci.org/joker1007/keyword_arg_time.png?branch=master)
 
 Time or Date object constructer by keyword arguments
 
